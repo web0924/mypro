@@ -1,0 +1,16 @@
+h4{
+    color: #f00
+}
+h5{
+    width:224px;
+    height: 30px;
+    margin: 0 auto;
+}
+.new_box{
+    text-align: left;
+    color: #666;
+    /* border: 1px solid ; */
+    padding: 0 250px;
+    margin: 60px 0;
+    font-size: 14px
+}
