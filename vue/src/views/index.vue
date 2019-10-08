@@ -7,7 +7,7 @@
                 <el-carousel-item v-for="(item,i) in text" :key="i">
                     <div class="slogan">
                         <h1 v-html="item.title"></h1>
-                        <p>您要的健身器材在这里，您将拥有较好的服务</p>
+                        <p>您要的健身器材在这里,您将拥有较好的服务</p>
                          <el-button type="danger" size="medium" @click="toMore">查看更多</el-button>
                     </div> 
                 </el-carousel-item>
